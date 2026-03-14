@@ -97,6 +97,7 @@ golemcore/devops-pack/deploy-review
 - Each artifact must live under exactly one maintainer namespace.
 - File and directory names must use stable lowercase slugs.
 - Repository changes must use Conventional Commits.
+- Pull requests to `main` are required; direct commits to `main` are not allowed.
 - Pull requests should clearly state whether they add a maintainer, a standalone skill, a pack, or repository-level documentation.
 
 ## Conventional Commits
