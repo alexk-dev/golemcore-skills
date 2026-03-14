@@ -55,8 +55,11 @@ Each pull request should explain:
 - whether existing artifact references are changed
 - whether consumers need to update any install metadata
 
+Pull request titles are validated in CI and must follow Conventional Commits.
+
 ## Repository Rules
 
+- Direct commits to `main` are prohibited. Open a pull request from a topic branch.
 - Use stable lowercase slugs for maintainers, artifacts, and skill directories.
 - Do not move or rename published artifacts without an explicit migration plan.
 - Do not reuse an existing artifact identifier for different content.
@@ -68,4 +71,4 @@ Each pull request should explain:
 1. Confirm that the path matches the repository structure in [docs/REPOSITORY_STRUCTURE.md](docs/REPOSITORY_STRUCTURE.md).
 2. Confirm that metadata and examples are written in English.
 3. Confirm that the commit history uses Conventional Commits.
-4. Confirm that the pull request title also follows Conventional Commits when possible.
+4. Confirm that the pull request title follows Conventional Commits.
