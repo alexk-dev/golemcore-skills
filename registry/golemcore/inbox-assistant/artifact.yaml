@@ -1,0 +1,7 @@
+schema: v1
+type: skill
+maintainer: golemcore
+id: inbox-assistant
+version: 1.0.0
+title: Inbox Assistant
+description: Triage email threads, summarize what matters, draft replies, and surface follow-ups without sending messages automatically.
