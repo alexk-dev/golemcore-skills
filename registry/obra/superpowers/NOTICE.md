@@ -6,6 +6,7 @@ This artifact adapts workflow ideas and prompt content from the upstream reposit
 - Upstream author: Jesse Vincent
 - Author profile: https://github.com/obra
 - Upstream license: MIT
+- Maintainer namespace in this registry: `obra`
 
 This notice is included to preserve attribution for the adapted upstream material.
 

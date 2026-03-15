@@ -1,8 +1,8 @@
 schema: v1
 type: pack
-maintainer: golemcore
+maintainer: obra
 id: superpowers
-version: 1.0.0
+version: 1.0.1
 title: Superpowers
 description: Adapted workflow pack inspired by obra/superpowers for design-first, TDD-oriented, review-heavy engineering in Golemcore Bot.
 license: MIT
