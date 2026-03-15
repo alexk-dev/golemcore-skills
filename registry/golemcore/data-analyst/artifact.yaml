@@ -1,0 +1,7 @@
+schema: v1
+type: skill
+maintainer: golemcore
+id: data-analyst
+version: 1.0.0
+title: Data Analyst
+description: Analyze structured data, identify patterns, explain trade-offs, and turn raw tables or metrics into decisions.

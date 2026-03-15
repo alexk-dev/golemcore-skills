@@ -1,0 +1,7 @@
+schema: v1
+type: skill
+maintainer: golemcore
+id: incident-triage
+version: 1.0.0
+title: Incident Triage
+description: Triage production incidents, analyze impact and hypotheses, and drive structured containment and next actions.
