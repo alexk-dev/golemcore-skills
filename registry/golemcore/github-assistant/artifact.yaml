@@ -1,0 +1,7 @@
+schema: v1
+type: skill
+maintainer: golemcore
+id: github-assistant
+version: 1.0.0
+title: GitHub Assistant
+description: Work with GitHub repositories, issues, pull requests, and branches using MCP tools with safe-by-default review and write behavior.

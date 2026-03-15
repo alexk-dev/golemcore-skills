@@ -1,0 +1,7 @@
+schema: v1
+type: skill
+maintainer: golemcore
+id: docs-writer
+version: 1.0.0
+title: Docs Writer
+description: Write and improve technical documentation, READMEs, migration guides, and operational runbooks with a user-first structure.

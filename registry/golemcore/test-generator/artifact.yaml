@@ -1,0 +1,7 @@
+schema: v1
+type: skill
+maintainer: golemcore
+id: test-generator
+version: 1.0.0
+title: Test Generator
+description: Design and write focused tests for new code, regressions, edge cases, and behavioral contracts.
