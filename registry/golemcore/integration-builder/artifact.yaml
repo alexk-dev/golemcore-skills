@@ -1,0 +1,7 @@
+schema: v1
+type: skill
+maintainer: golemcore
+id: integration-builder
+version: 1.0.0
+title: Integration Builder
+description: Design and implement API, webhook, automation, and MCP-style integrations with clear assumptions, safety checks, and delivery steps.

@@ -1,0 +1,7 @@
+schema: v1
+type: skill
+maintainer: golemcore
+id: support-triage
+version: 1.0.0
+title: Support Triage
+description: Triage support tickets and incidents, determine severity, identify missing context, and recommend the next best action.
