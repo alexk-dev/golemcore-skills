@@ -1,0 +1,51 @@
+schema: v1
+type: pack
+maintainer: golemcore
+id: superpowers
+version: 1.0.0
+title: Superpowers
+description: Adapted workflow pack inspired by obra/superpowers for design-first, TDD-oriented, review-heavy engineering in Golemcore Bot.
+license: MIT
+source:
+  repository: https://github.com/obra/superpowers
+  author: Jesse Vincent
+  author_url: https://github.com/obra
+  license: MIT
+attribution: Adapted for Golemcore Bot runtime and golemcore-skills packaging.
+tags:
+  - workflow
+  - engineering
+  - planning
+  - testing
+  - review
+skills:
+  - id: superpowers-using-superpowers
+    path: skills/superpowers-using-superpowers/SKILL.md
+  - id: superpowers-brainstorming
+    path: skills/superpowers-brainstorming/SKILL.md
+  - id: superpowers-writing-plans
+    path: skills/superpowers-writing-plans/SKILL.md
+  - id: superpowers-executing-plans
+    path: skills/superpowers-executing-plans/SKILL.md
+  - id: superpowers-subagent-driven-development
+    path: skills/superpowers-subagent-driven-development/SKILL.md
+  - id: superpowers-dispatching-parallel-agents
+    path: skills/superpowers-dispatching-parallel-agents/SKILL.md
+  - id: superpowers-systematic-debugging
+    path: skills/superpowers-systematic-debugging/SKILL.md
+  - id: superpowers-test-driven-development
+    path: skills/superpowers-test-driven-development/SKILL.md
+  - id: superpowers-verification-before-completion
+    path: skills/superpowers-verification-before-completion/SKILL.md
+  - id: superpowers-using-git-worktrees
+    path: skills/superpowers-using-git-worktrees/SKILL.md
+  - id: superpowers-requesting-code-review
+    path: skills/superpowers-requesting-code-review/SKILL.md
+  - id: superpowers-code-reviewer
+    path: skills/superpowers-code-reviewer/SKILL.md
+  - id: superpowers-receiving-code-review
+    path: skills/superpowers-receiving-code-review/SKILL.md
+  - id: superpowers-finishing-a-development-branch
+    path: skills/superpowers-finishing-a-development-branch/SKILL.md
+  - id: superpowers-writing-skills
+    path: skills/superpowers-writing-skills/SKILL.md
