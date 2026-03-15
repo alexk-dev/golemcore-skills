@@ -1,0 +1,7 @@
+schema: v1
+type: skill
+maintainer: golemcore
+id: create-skill
+version: 1.0.0
+title: Create Skill
+description: Create production-ready skills for Golemcore Bot with correct metadata, structure, and safe prompts.
