@@ -295,7 +295,7 @@ Tooling may grow over time. The following fields are recommended for future comp
 compatibility:
   golemcore: ">=0.15.0 <0.16.0"
 source:
-  repository: https://github.com/golemcore/golemcore-skills
+  repository: https://github.com/alexk-dev/golemcore-skills
 ```
 
 Optional pack-oriented metadata:

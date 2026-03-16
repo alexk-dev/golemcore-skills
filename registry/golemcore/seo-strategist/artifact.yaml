@@ -1,0 +1,7 @@
+schema: v1
+type: skill
+maintainer: golemcore
+id: seo-strategist
+version: 1.0.0
+title: SEO Strategist
+description: Plan SEO strategy, keyword targeting, content briefs, on-page improvements, and technical SEO priorities.
