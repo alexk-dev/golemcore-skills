@@ -1,0 +1,7 @@
+schema: v1
+type: skill
+maintainer: golemcore
+id: brave-search
+version: 1.0.0
+title: Brave Search
+description: Use the brave_search tool efficiently for fast web discovery, operator-driven lookup, and result refinement.
