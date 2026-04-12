@@ -1,0 +1,7 @@
+schema: v1
+type: skill
+maintainer: golemcore
+id: brain
+version: 1.0.0
+title: GolemCore Brain
+description: Use the golemcore_brain tool effectively for Brain wiki spaces, page lookup, intellisearch, assets, and write-gated page operations.
